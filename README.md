@@ -9,7 +9,7 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <img align="left" height="210" src="https://i.imgflip.com/65efzo.gif"  />
@@ -17,5 +17,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/SumitM0432/SumitM0432/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
